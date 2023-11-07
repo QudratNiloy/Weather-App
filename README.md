@@ -1,3 +1,3 @@
-[Live-Link]((https://searchweatherreport.netlify.app/)https://searchweatherreport.netlify.app/)
+[Live-Link](https://searchweatherreport.netlify.app/)
 
 # Weather-App
